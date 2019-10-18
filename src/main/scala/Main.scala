@@ -1,5 +1,9 @@
 object Main {
 
+  /**
+    * @author eozel44
+    */
+
   /*** 1.types;
     /** Scala via the major patterns of usage:
       • algebraic data types
