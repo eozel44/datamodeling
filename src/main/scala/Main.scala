@@ -1,7 +1,7 @@
 object Main {
 
   /**
-    * @author eozel44
+    * @author Eren Özel
     */
 
   /*** 1.types;
